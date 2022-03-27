@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7048ea90-40e2-153c-dd7f-ca7f775b1ec1
 resourcetype: Document
 title: WGS.645 S19 Recommended Readings
 uid: 264046d1-a2b3-802e-10d8-387a13ac7d88

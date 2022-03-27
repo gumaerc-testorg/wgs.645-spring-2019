@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Research Paper
 parent_type: CourseSection
+parent_uid: 956d2f43-b32e-e703-5533-375b2acc2f1b
 resourcetype: Document
 title: 'WGS_645s19 Assignments: Student Paper'
 uid: 118a86da-ebf6-585e-7a09-e2ee9b60e928
