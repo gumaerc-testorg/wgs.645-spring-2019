@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains information about the presentations and student
+  blog posts. '
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

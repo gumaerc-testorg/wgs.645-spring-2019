@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section explains the assignment in which students give a group
+  presentation to the class. '
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/wgs-645-gendering-u-s-immigration-policy-sociopolitical-theological-and-feminist-perspectives-spring-2019/5fc71cd57a9eae501ddef80579bfc709_wgs-645s19-th.jpg
+file: /courses/wgs-645-gendering-u-s-immigration-policy-sociopolitical-theological-and-feminist-perspectives-spring-2019/5fc71cd57a9eae501ddef80579bfc709_wgs-645s19-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'A woman expresses solidarity for immigration reform at SEIU Local 99''s
