@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: 'This section contains information about the presentations and student
+  blog posts. '
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 95f06dde-34f2-cdb7-ab5d-cf58dbe41ce4
 title: Individual Presentation/Blog Posts
 uid: b85623f2-47af-3f5f-4d26-c1b987c42fc7

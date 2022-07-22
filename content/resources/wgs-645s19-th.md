@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/wgs-645-gendering-u-s-immigration-policy-sociopolitical-theological-and-feminist-perspectives-spring-2019/5fc71cd57a9eae501ddef80579bfc709_wgs-645s19-th.jpg
+file: /courses/wgs-645-gendering-u-s-immigration-policy-sociopolitical-theological-and-feminist-perspectives-spring-2019/5fc71cd57a9eae501ddef80579bfc709_wgs-645s19-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'A woman expresses solidarity for immigration reform at SEIU Local 99''s
@@ -9,6 +9,9 @@ image_metadata:
     on flickr. License: CC BY-NC.)'
   credit: 'Image by SEIU Local 99 on flickr. License: CC BY-NC.'
   image-alt: A woman holds up a sign that reads "Family First! Reform now!"
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWImage
 resourcetype: Image
 title: wgs-645s19-th.jpg
 uid: 5fc71cd5-7a9e-ae50-1dde-f80579bfc709

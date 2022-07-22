@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: 'This section contains a list of readings used in the course. '
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7048ea90-40e2-153c-dd7f-ca7f775b1ec1
 ---
 
 \[BR\] =  Benhabib, Seyla, and Judith Resnik.  _Migrations and Mobilities: Citizenship, Borders, and Gender_. NYU Press, 2009. ISBN: 9780814776001.
 
-For further reading related to the course topics, please see [Recommended Readings (PDF)]({{< baseurl >}}/resources/mitwgs_645s19_recreadings).
+For further reading related to the course topics, please see {{% resource_link 264046d1-a2b3-802e-10d8-387a13ac7d88 "Recommended Readings (PDF)" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -190,7 +194,7 @@ Gendered Migration Flows and Labor Recruitment Practices
 {{< tdopen >}}
 
 
-Bernhardt, Annette, et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Broken Laws, Unprotected Workers” (PDF - 1.1MB)](https://www.nelp.org/wp-content/uploads/2015/03/BrokenLawsReport2009.pdf). National Employment Law Project. New York: NELP (2009).
+Bernhardt, Annette, et al. "[Broken Laws, Unprotected Workers” (PDF - 1.1MB)](https://www.nelp.org/wp-content/uploads/2015/03/BrokenLawsReport2009.pdf). National Employment Law Project. New York: NELP (2009).
 
 Boehm, Deborah. “[‘Now I Am a Man and a Woman!’: Gendered Moves and Migrations in a Transnational Mexican Community](https://doi.org/10.1177%2F0094582X07310843).” _Latin American Perspectives_ 35:1 (2008): 16–30.
 

@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: 'This section explains the assignment in which students give a group
+  presentation to the class. '
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 95f06dde-34f2-cdb7-ab5d-cf58dbe41ce4
 title: Group Presentations
 uid: b3a4bcb8-ef96-e17d-9a7f-cedc0198b071
