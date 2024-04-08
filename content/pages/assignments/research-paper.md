@@ -69,7 +69,7 @@ The paper should cite at least 10 relevant scholarly publications (for library r
     - 2 points: Rigor: Is there a coherent and theoretically relevant relationship between the supporting evidence the author uses and the points they are trying to make? Also, is the supporting evidence being used to support the logical progression of the author’s argument, throughout the course of the paper?
 - 1 point: Citing sources
 
-Up to ½ point (or a fraction thereof) will be deducted from papers that have a pattern of errors for in-text (footnote) citations, and up to ½ point (or a fraction thereof) will be deducted from papers that have a pattern of errors for end-of-text (bibliographical) citations. Papers should use the footnote reference system according the [*Chicago Manual of Style, 15th edition*](https://www.amazon.com/Chicago-Manual-Style-University-Press/dp/0226104036/ref=sr_1_1?keywords=chicago+manual+of+style+15th+edition&qid=1561054713&s=gateway&sr=8-1), for citing sources in the body of the paper. A full bibliographic reference list should be provided at the end of the paper. 
+Up to ½ point (or a fraction thereof) will be deducted from papers that have a pattern of errors for in-text (footnote) citations, and up to ½ point (or a fraction thereof) will be deducted from papers that have a pattern of errors for end-of-text (bibliographical) citations. Papers should use the footnote reference system according the {{% resource_link "1132df1f-8bb1-46bf-9bbd-cddc17d0890f" "*Chicago Manual of Style, 15th edition*" %}}, for citing sources in the body of the paper. A full bibliographic reference list should be provided at the end of the paper. 
 
 3) Ethical or Theological Value Orientation: 3 Points
 
