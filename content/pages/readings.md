@@ -76,11 +76,11 @@ The Feminization of Migration and Migrant Otherness: U.S. and Global Perspective
 {{< tdopen >}}
 
 
-Gündüz, Zuhal Yeşilyurt. “[The Feminization of Migration: Care and the New Emotional Imperialism](https://monthlyreview.org/2013/12/01/the-feminization-of-migration/).” _Monthly Review_ 65:7 (2013): 32–43.
+Gündüz, Zuhal Yeşilyurt. “{{% resource_link "9d42ba65-c436-4745-9642-77085b884423" "The Feminization of Migration: Care and the New Emotional Imperialism" %}}.” _Monthly Review_ 65:7 (2013): 32–43.
 
-Kolářová, Marta. “[Gender and Globalisation: Labour Changes in the Global Economy](https://www.jstor.org/stable/41132360?seq=1#page_scan_tab_contents).” _Czech Sociological Review_ 42:6 (2006): 1241–1257.
+Kolářová, Marta. “{{% resource_link "47eed30a-e496-48a6-b41a-aab59c23ee0c" "Gender and Globalisation: Labour Changes in the Global Economy" %}}.” _Czech Sociological Review_ 42:6 (2006): 1241–1257.
 
-Manalansan, Martin. “[Queer Intersections: Sexuality and Gender in Migration Studies](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1747-7379.2006.00009.x).” _The International Migration Review_ 40:1 (2006): 224–49.
+Manalansan, Martin. “{{% resource_link "8d91a4ee-e54b-4bf8-8ec6-62bd6a70c872" "Queer Intersections: Sexuality and Gender in Migration Studies" %}}.” _The International Migration Review_ 40:1 (2006): 224–49.
 
 
 {{< tdclose >}}
@@ -104,7 +104,7 @@ Postcolonial and Feminist Theologies on Immigration: Varied Theological Perspect
 {{< tdopen >}}
 
 
-Ibrahim, Abadir. “[A Not-So-Radical Approach to Human Rights in Islam](https://www.journals.uchicago.edu/doi/abs/10.1086/686568?journalCode=jr).” _Journal of Religion_ 96:3 (2016): 346–377.
+Ibrahim, Abadir. “{{% resource_link "06d0b28a-5ff2-4216-8f4d-d61114751e7a" "A Not-So-Radical Approach to Human Rights in Islam" %}}.” _Journal of Religion_ 96:3 (2016): 346–377.
 
  Kwok Pui-lan. “Unbinding Our Feet: Saving Brown Women and Feminist Religious Discourse.” _Postcolonialism, Feminism & Religious Discourse._ Edited by Laura E. Donaldson and Kwok Pui-lan. Routledge, 2002. pp. 62–81. ISBN: 9780415928878.
 
@@ -164,7 +164,7 @@ Colonial/Postcolonial Power and its Resistance: An Analysis of Patriarchy and Ra
 
  Spivak, Gayatri Chakravorty. “Can the Subaltern Speak?” _The_ _Post-Colonial Studies Reader._ Edited by Bill Ashcroft, Gareth Griffiths, and Helen Tiffin. Routledge, 1995. pp. 23–28. ISBN: 9780415096225.
 
-Stromquist, Nelly P. “[Freire, Literacy and Emancipatory Gender Learning](https://link.springer.com/article/10.1007/s11159-014-9424-2).” _International Review of Education / Internationale Zeitschrift Für Erziehungswissenschaft / Revue Internationale De L'Education_ 60:4 (2014): 545–58.
+Stromquist, Nelly P. “{{% resource_link "5f3ceed6-d701-4ef3-927b-b52c49d0ee00" "Freire, Literacy and Emancipatory Gender Learning" %}}.” _International Review of Education / Internationale Zeitschrift Für Erziehungswissenschaft / Revue Internationale De L'Education_ 60:4 (2014): 545–58.
 
 
 {{< tdclose >}}
@@ -194,13 +194,13 @@ Gendered Migration Flows and Labor Recruitment Practices
 {{< tdopen >}}
 
 
-Bernhardt, Annette, et al. "[Broken Laws, Unprotected Workers” (PDF - 1.1MB)](https://www.nelp.org/wp-content/uploads/2015/03/BrokenLawsReport2009.pdf). National Employment Law Project. New York: NELP (2009).
+Bernhardt, Annette, et al. "{{% resource_link "a0d374ac-b514-4f8e-b23a-1351acc9b2f3" "Broken Laws, Unprotected Workers” (PDF - 1.1MB)" %}}. National Employment Law Project. New York: NELP (2009).
 
-Boehm, Deborah. “[‘Now I Am a Man and a Woman!’: Gendered Moves and Migrations in a Transnational Mexican Community](https://doi.org/10.1177%2F0094582X07310843).” _Latin American Perspectives_ 35:1 (2008): 16–30.
+Boehm, Deborah. “{{% resource_link "4a4eb58c-250e-4c1d-85fd-652556c06a19" "‘Now I Am a Man and a Woman!’: Gendered Moves and Migrations in a Transnational Mexican Community" %}}.” _Latin American Perspectives_ 35:1 (2008): 16–30.
 
-Lee, Catherine. “[‘Where the Danger Lies’: Race, Gender, and Chinese and Japanese Exclusion in the United States](https://doi.org/10.1111/j.1573-7861.2010.01175.x).” _Sociological Forum_ 25:2 (2010): 248–271.
+Lee, Catherine. “{{% resource_link "753744fd-d46c-41d5-82d1-97f76ff59773" "‘Where the Danger Lies’: Race, Gender, and Chinese and Japanese Exclusion in the United States" %}}.” _Sociological Forum_ 25:2 (2010): 248–271.
 
-Parreñas, Rhacel Salazar. “[Migrant Filipina Domestic Workers and the International Division of Reproductive Labor](https://doi.org/10.1177%2F089124300014004005).” _Gender & Society_ 14:4 (2000): 560–580.
+Parreñas, Rhacel Salazar. “{{% resource_link "a2243c57-8f82-4760-8615-2139f29e0706" "Migrant Filipina Domestic Workers and the International Division of Reproductive Labor" %}}.” _Gender & Society_ 14:4 (2000): 560–580.
 
 
 {{< tdclose >}}
@@ -224,13 +224,13 @@ Gendering (and Racializing) Illegality
 {{< tdopen >}}
 
 
-Enriquez, Laura. “[Gendering Illegality: Undocumented Young Adults’ Negotiation of the Family Formation Process](https://doi.org/10.1177%2F0002764217732103).” _American Behavioral Scientist_ 61:10 (2017): 1153﻿–1171.
+Enriquez, Laura. “{{% resource_link "bc4fc0e0-fbda-4542-975e-84b470e59337" "Gendering Illegality: Undocumented Young Adults’ Negotiation of the Family Formation Process" %}}.” _American Behavioral Scientist_ 61:10 (2017): 1153﻿–1171.
 
-Golash-Boza, Tanya and Pierrette Hondagneu-Sotelo. “[Latino Immigrant Men and the Deportation Crisis: A Gendered Racial Removal Program](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2510527).” _Latino Studies_ 11:3 (2013): 271–292.
+Golash-Boza, Tanya and Pierrette Hondagneu-Sotelo. “{{% resource_link "fe280ad7-0245-4357-99ff-7d92f58a108d" "Latino Immigrant Men and the Deportation Crisis: A Gendered Racial Removal Program" %}}.” _Latino Studies_ 11:3 (2013): 271–292.
 
 Kerber, Linda. “The Stateless as the Citizen’s Other: A View from the United States.” Chapter 2 in \[BR\].
 
-Ngai, Mae M. “[The Architecture of Race in American Immigration Law: A Reexamination of the Immigration Act of 1924](https://www.jstor.org/stable/2567407?seq=1#page_scan_tab_contents).” _The Journal of American History_ 86:1 (1999): 67–92.
+Ngai, Mae M. “{{% resource_link "a7d72414-fa88-4291-b66c-e5872b6ebdbd" "The Architecture of Race in American Immigration Law: A Reexamination of the Immigration Act of 1924" %}}.” _The Journal of American History_ 86:1 (1999): 67–92.
 
 
 {{< tdclose >}}
@@ -254,13 +254,13 @@ Immigration Control and Hierarchies of Sexuality and Gender
 {{< tdopen >}}
 
 
-Acosta, Katie. “[Lesbianas in the Borderlands: Shifting Identities and Imagined Communities](https://doi.org/10.1177%2F0891243208321169).” _Gender and Society_ 22:5 (2008): 639﻿–  659.
+Acosta, Katie. “{{% resource_link "30cc4bd6-98b3-4c61-8132-ac31e662680d" "Lesbianas in the Borderlands: Shifting Identities and Imagined Communities" %}}.” _Gender and Society_ 22:5 (2008): 639﻿–  659.
 
-Chapkis, Wendy. “[Trafficking, Migration, and the Law: Protecting Innocents, Punishing Immigrants](https://doi.org/10.1177%2F0891243203257477).” _Gender and Society_ 17:6 (2003): 923–937.
+Chapkis, Wendy. “{{% resource_link "bc090653-7715-4840-9b9a-7cdb72f1473f" "Trafficking, Migration, and the Law: Protecting Innocents, Punishing Immigrants" %}}.” _Gender and Society_ 17:6 (2003): 923–937.
 
-Das Gupta, Monisha. “[‘Don’t Deport Our Daddies!’: Gendering State Deportation Practices and Immigrant Organizing](https://doi.org/10.1177%2F0891243213508840).” _Gender and Society_ 28:1 (2014): 83–109.
+Das Gupta, Monisha. “{{% resource_link "9e12f478-20c2-4dd3-a5d3-bbb21d9ca6af" "‘Don’t Deport Our Daddies!’: Gendering State Deportation Practices and Immigrant Organizing" %}}.” _Gender and Society_ 28:1 (2014): 83–109.
 
-Hicks, Heather J. “[Suits vs. Skins: Immigration and Race in _Men in Black_](http://doi.org/10.1353/arq.2007.0010)." _Arizona Quarterly: A Journal of American Literature, Culture, and Theory_ 63:2 (2007): 109–136.
+Hicks, Heather J. “{{% resource_link "20f02993-003d-44c5-a767-f00a57eafc80" "Suits vs. Skins: Immigration and Race in _Men in Black_" %}}." _Arizona Quarterly: A Journal of American Literature, Culture, and Theory_ 63:2 (2007): 109–136.
 
 
 {{< tdclose >}}
@@ -290,7 +290,7 @@ Gender, Sexuality and Women in Immigrant Faith Communities
 
  Lee, Jung Young. _Marginality: The Key to Multicultural Theology._ Fortress Press, 1995. pp. 29–76. ISBN: 9780800628109.
 
-Stewart, Faye. “[Filming Faith and Desire: Encoding and Decoding Identities in Angelina Maccarone's ‘Fremde Haut.’](https://www.jstor.org/stable/44242732?seq=1#page_scan_tab_contents)” _Colloquia Germanica_, special issue: _Framing Islam: Faith, Fascination, and Fear in Twenty-First-Century German Culture_ 47:1/2 (2014): 157–178.
+Stewart, Faye. “{{% resource_link "eae228a0-8350-4996-8f0b-790262df2cd6" "Filming Faith and Desire: Encoding and Decoding Identities in Angelina Maccarone's ‘Fremde Haut.’" %}}” _Colloquia Germanica_, special issue: _Framing Islam: Faith, Fascination, and Fear in Twenty-First-Century German Culture_ 47:1/2 (2014): 157–178.
 
 
 {{< tdclose >}}
@@ -350,13 +350,13 @@ The Gender and Ethics of Immigration Policy: Reframing Communitarian and Cosmopo
 {{< tdopen >}}
 
 
-Carens, Joseph H. “[Realistic and Idealistic Approaches to the Ethics of Migration](https://www.jstor.org/stable/2547465?seq=1#page_scan_tab_contents).” _The International Migration Review_ 30:1 (1996): 156–170.
+Carens, Joseph H. “{{% resource_link "d4de5123-8bc5-4359-ac44-762309019d98" "Realistic and Idealistic Approaches to the Ethics of Migration" %}}.” _The International Migration Review_ 30:1 (1996): 156–170.
 
 Means, Angelia. “Intercultural Political Identity: Are We There Yet?” Chapter 12 in \[BR\].
 
-Ruhs, Martin and Ha-Joon Chang. “[The Ethics of Labor Immigration Policy](https://doi.org/10.1017/S0020818304581031).” _International Organization_ 58:1 (2004): 69–102.
+Ruhs, Martin and Ha-Joon Chang. “{{% resource_link "8cf1f048-4d24-468c-bc17-65b70bbffe73" "The Ethics of Labor Immigration Policy" %}}.” _International Organization_ 58:1 (2004): 69–102.
 
-Silvey, Rachel. “[Transnational Rights and Wrongs: Moral Geographies of Gender and Migration](https://www.jstor.org/stable/43154557).” _Philosophical Topics_ 37:2 (2009): 75–91.
+Silvey, Rachel. “{{% resource_link "572e6c60-a4a8-4432-8aea-f5cb5d194333" "Transnational Rights and Wrongs: Moral Geographies of Gender and Migration" %}}.” _Philosophical Topics_ 37:2 (2009): 75–91.
 
 
 {{< tdclose >}}
@@ -408,11 +408,11 @@ Faith-Based Perspectives on the Intersections of Migrant Rights, Human Rights an
 {{< tdopen >}}
 
 
-Admirand, Peter. “[The Ethics of Displacement and Migration in the Abrahamic Faiths: Enlightening Believers and Aiding Public Policy](https://doi.org/10.1080/1369183X.2013.847360).” _Journal of Ethnic & Migration Studies_. 40:4 (2014): 671–687.
+Admirand, Peter. “{{% resource_link "3c5706e8-266e-48fb-bd16-c51066d819db" "The Ethics of Displacement and Migration in the Abrahamic Faiths: Enlightening Believers and Aiding Public Policy" %}}.” _Journal of Ethnic & Migration Studies_. 40:4 (2014): 671–687.
 
  Choi Hee An. _A Postcolonial Self: Korean Immigrant Theology and Church_. State University of New York Press, 2016. pp. 115–152. ISBN: 9781438457369.
 
-Hondagneu-Sotelo, Pierrette, Genelle Gaudinez, Hector Lara, and Billie Ortiz. “[‘There's a Spirit that Transcends the Border’: Faith, Ritual, and Postnational Protest at the U.S.-Mexico Border](https://doi.org/10.1525%2Fsop.2004.47.2.133).” _Sociological Perspectives_ 47:2 (2004): 133–15.
+Hondagneu-Sotelo, Pierrette, Genelle Gaudinez, Hector Lara, and Billie Ortiz. “{{% resource_link "b5f7cf91-73f0-4bc9-9e79-cfecc1fbde88" "‘There's a Spirit that Transcends the Border’: Faith, Ritual, and Postnational Protest at the U.S.-Mexico Border" %}}.” _Sociological Perspectives_ 47:2 (2004): 133–15.
 
  Kang, Namsoon. _Cosmopolitan Theology: Reconstituting Planetary Hospitality, Neighbor-Love, and Solidarity in an Uneven World_. Chalice Press, 2013. Chapter 6. ISBN: 9780827205345.
 
