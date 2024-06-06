@@ -41,7 +41,7 @@ Gendering Immigration, an Introduction
 
 Introductions: Who are we?
 
-View and discuss the film: Cohn, Peter. _{{% resource_link "de920534-589f-4953-bca4-0d013defc2d1" "Golden Venture" %}}._ 2006.
+View and discuss the film: Cohn, Peter. _[Golden Venture](https://www.goldenventuremovie.com/)._ 2006.
 
 
 {{< tdclose >}}
