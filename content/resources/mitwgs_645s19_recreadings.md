@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/wgs-645-gendering-u-s-immigration-policy-sociopolitical-theological-and-feminist-perspectives-spring-2019/264046d1a2b3802e10d8387a13ac7d88_MITWGS_645S19_RecReadings.pdf
+file: /courses/wgs-645-gendering-u-s-immigration-policy-sociopolitical-theological-and-feminist-perspectives-spring-2019/264046d1a2b3802e10d8387a13ac7d88_MITWGS_645S19_RecReadings.pdf
 file_size: 189762
 file_type: application/pdf
 learning_resource_types:
