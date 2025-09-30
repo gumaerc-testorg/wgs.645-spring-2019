@@ -13,7 +13,7 @@ Seminar: 1 session / week, 3 hours / session
 
 ## Prerequisites
 
-Students must have applied and been accepted to the [Consortium for Graduate Studies in Gender, Culture, Women, and Sexuality](https://www.gcws.mit.edu/).
+Students must have applied and been accepted to the {{% resource_link "cea24424-60ee-44b3-942e-c9cd1180597a" "Consortium for Graduate Studies in Gender, Culture, Women, and Sexuality" %}}.
 
 ## Course Description
 
@@ -25,7 +25,7 @@ The second half of the course focuses on ethical and theological perspectives on
 
 ## The Consortium for Graduate Studies in Gender, Culture, Women, and Sexuality (GCWS)
 
-The GCWS at MIT brings together scholars and teachers at nine degree-granting institutions in the Boston area who are devoted to interdiscplinary graduate teaching, research, and scholarship in Women's, Gender, and Sexuality Studies. Learn more about the [GCWS](https://www.gcws.mit.edu/overview).
+The GCWS at MIT brings together scholars and teachers at nine degree-granting institutions in the Boston area who are devoted to interdiscplinary graduate teaching, research, and scholarship in Women's, Gender, and Sexuality Studies. Learn more about the {{% resource_link "3d251e54-c2fb-4e41-a465-1d04aa1b6671" "GCWS" %}}.
 
 ## Learning Outcomes
 
@@ -149,7 +149,7 @@ F:    0–59
     - Use the footnote reference system according to *The Chicago Manual of Style, 15th edition.* ISBN: 9780321115836.
     - Include a full bibliographic reference list at the end of the paper.
     - For style models, see Kate Turabian's  *A Manual for Writers of Term Papers, Theses, and Dissertations*. ISBN:9780226430577
-    - For online help, see the [Chicago Manual of Style Citation Guide](https://www.chicagomanualofstyle.org/tools_citationguide.html).
+    - For online help, see the {{% resource_link "a19b476e-2b71-49b7-9d3d-eff36a74fa4b" "Chicago Manual of Style Citation Guide" %}}.
 
 *Absences*
 
